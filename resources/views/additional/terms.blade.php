@@ -32,10 +32,10 @@
                 <div class="terms-box mt-60">
                     <h5 class="h5-xl"><strong>Introduction</strong></h5>
 
-                    <p class="p-lg">Welcome to Marsiajar!</p>
+                    <p class="p-lg">Welcome to PT. Elang Mas Surya ( EMS )!</p>
 
-                    <p>This website is managed by Marsiajar. Throughout the site, the terms "we", "us"
-                        and "our" refer to Marsiajar. Marsiajar offers this website,
+                    <p>This website is managed by PT. Elang Mas Surya ( EMS ). Throughout the site, the terms "we", "us"
+                        and "our" refer to PT. Elang Mas Surya ( EMS ). PT. Elang Mas Surya ( EMS ) offers this website,
                         including all information, tools and services available from this site to you, the user,
                         provided that you accept all terms, conditions, policies and notices stated herein. If you do
                         not accept the terms or conditions contained herein then you are not allowed to access this
@@ -43,8 +43,8 @@
 
                     <h5 class="h5-xl"><strong>Cookies</strong></h5>
 
-                    <p>We use cookies on this website. In using Marsiajar, you are required to agree to
-                        the use of cookies in accordance with the privacy policy of Marsiajar. The use of
+                    <p>We use cookies on this website. In using PT. Elang Mas Surya ( EMS ), you are required to agree to
+                        the use of cookies in accordance with the privacy policy of PT. Elang Mas Surya ( EMS ). The use of
                         cookies on our website can help us to see in detail each user who is interactive with us.
                         Cookies are used by our website to enable certain area functions to make it easier for you to
                         visit our website. Some of our advertising partners also use cookies.
@@ -55,7 +55,7 @@
                     <p>The entire content of our Website is the text, graphics, photos, images, logos, artwork and
                         computer code (collectively, the "Content"), including but not limited to the design, structure
                         and arrangement of such Content, which is contained on the Site. The Web is owned, controlled or
-                        licensed, by or to Marsiajar and all rights reserved. You are granted a limited
+                        licensed, by or to PT. Elang Mas Surya ( EMS ) and all rights reserved. You are granted a limited
                         licence only, subject to the limitations provided in these Terms, for the purpose of viewing the
                         material contained on this Website. You may not reproduce, print, copy, store, publish, display,
                         distribute, modify, publish, transfer, sell or distribute the Content without Boxity Central
@@ -113,7 +113,7 @@
                         This Website and the services available on it may only be used for personal and non-commercial
                         use and are subject to and at all times subject to and applicable terms and conditions then
                         applicable in these Terms. <br>
-                        Without the prior written consent of Marsiajar, you are expressly and definitely
+                        Without the prior written consent of PT. Elang Mas Surya ( EMS ), you are expressly and definitely
                         restricted from all of the following:
                     </p>
                     <ol class="simple-list">
@@ -135,23 +135,23 @@
                         <li class="list-item">Use this Website to engage in any advertising or marketing;</li>
                     </ol>
                     <p>
-                        Certain areas of this Website are restricted to access for you and Marsiajar may
+                        Certain areas of this Website are restricted to access for you and PT. Elang Mas Surya ( EMS ) may
                         further restrict access for you to any areas of this Website, at any time, in its sole and
                         absolute discretion.
                     </p>
                     <h5 class="h5-xl"><strong>Data Usage Policy</strong></h5>
                     <p>
-                        Marsiajar will record and store the personal information and data that you
+                        PT. Elang Mas Surya ( EMS ) will record and store the personal information and data that you
                         provide through the
                         Website from time to time. In principle, we will use your data to provide services to you. Your
                         personal data in
-                        Marsiajar , Marsiajar can be used including but not limited to
+                        PT. Elang Mas Surya ( EMS ) , PT. Elang Mas Surya ( EMS ) can be used including but not limited to
                         administrative and
                         legal purposes, customer relations or promotions. In connection with that, Boxity Central
                         Indonesia may disclose
                         your data to group companies in which third parties are members, service provider partners,
                         other companies that are
-                        partners of Marsiajar , data processing companies that are under contract with
+                        partners of PT. Elang Mas Surya ( EMS ) , data processing companies that are under contract with
                         Boxity Central
                         Indonesia , government agencies and/or or competent judicial body, in any jurisdiction.Boxity
                         Central Indonesia will
@@ -161,27 +161,27 @@
                         Central Indonesia , Boxity
                         Central Indonesia can be used including but not limited to administrative and legal purposes,
                         customer relations or
-                        promotions. In connection with that, Marsiajar may disclose your data to group
+                        promotions. In connection with that, PT. Elang Mas Surya ( EMS ) may disclose your data to group
                         companies in which
                         third parties are members, service provider partners, other companies that are partners of
-                        Marsiajar
-                        , data processing companies that are under contract with Marsiajar , government
+                        PT. Elang Mas Surya ( EMS )
+                        , data processing companies that are under contract with PT. Elang Mas Surya ( EMS ) , government
                         agencies and/or or
                         competent judicial body, in any jurisdiction.
                     </p>
                     <h5 class="h5-xl"><strong>No Guarantee</strong></h5>
-                    <p>This Website and the Content it contains are provided "as is,". Marsiajar makes no
+                    <p>This Website and the Content it contains are provided "as is,". PT. Elang Mas Surya ( EMS ) makes no
                         representations or warranties, express or implied, of any kind with respect to this Website, the
                         Content, or the materials contained on this Website. None of the Content contained on this
                         Website should be construed as providing advice or advice to you.</p>
                     <h5 class="h5-xl"><strong>Limitation of Liability</strong></h5>
-                    <p>In no event shall Marsiajar , or its directors and employees, be liable to you for
+                    <p>In no event shall PT. Elang Mas Surya ( EMS ) , or its directors and employees, be liable to you for
                         anything arising out of or in any way related to your use of this Website. Boxity Central
                         Indonesia , including its directors and employees shall not be liable for any indirect,
                         consequential or special liability arising out of or in any way related to your use of this
                         Website.</p>
                     <h5 class="h5-xl"><strong>Compensation</strong></h5>
-                    <p>You hereby agree to indemnify Marsiajar fully from and against any and all
+                    <p>You hereby agree to indemnify PT. Elang Mas Surya ( EMS ) fully from and against any and all
                         liabilities, costs, demands, causes of action, damages and expenses (including reasonable
                         attorneys' fees) arising out of or in any way related to your breach of any of the following:
                         one provision of these Terms.</p>
@@ -192,23 +192,23 @@
                         the validity and enforceability of the remaining provisions.</p>
                     <h5 class="h5-xl"><strong>Terms Change</strong></h5>
                     <p>These provisions may be changed, modified, added, deleted or corrected ("changes") at any time by
-                        Marsiajar and any changes shall be effective from the time they are declared
-                        effective or at such other time as may be determined by Marsiajar . You are
+                        PT. Elang Mas Surya ( EMS ) and any changes shall be effective from the time they are declared
+                        effective or at such other time as may be determined by PT. Elang Mas Surya ( EMS ) . You are
                         expected to visit the Website periodically to be aware of and understand any such changes.</p>
                     <h5 class="h5-xl"><strong>Applicable Law and Dispute Resolution</strong></h5>
-                    <p>You and Marsiajar agree that any claim or dispute relating to our Website will be
+                    <p>You and PT. Elang Mas Surya ( EMS ) agree that any claim or dispute relating to our Website will be
                         governed by the laws of Indonesia, without regard to its conflict of law provisions, and submit
                         to the exclusive jurisdiction of the West Java District Court.</p>
                     <h5 class="h5-xl"><strong>General</strong></h5>
-                    <p>These Terms constitute the entire agreement between you and Marsiajar in relation
+                    <p>These Terms constitute the entire agreement between you and PT. Elang Mas Surya ( EMS ) in relation
                         to your use of the Website and our content, and supersede any and all other written or oral
-                        agreements previously existing between you and Marsiajar regarding the use of our
+                        agreements previously existing between you and PT. Elang Mas Surya ( EMS ) regarding the use of our
                         Website and content. If any article of this provision is deemed by the court to be null and void
                         or has no binding legal force, the provision will be amended or deleted to the extent necessary
                         and replaced with a valid provision that best fits the intent of these Terms, so that these
-                        Terms will remain in full force and effect. . Any failure or delay by Marsiajar
+                        Terms will remain in full force and effect. . Any failure or delay by PT. Elang Mas Surya ( EMS )
                         in enforcing (in whole or in part) any clause of these Terms shall not be construed as a waiver
-                        of Marsiajar's rights or remedies. These Terms shall not be construed or
+                        of PT. Elang Mas Surya ( EMS )'s rights or remedies. These Terms shall not be construed or
                         constructed to confer any right or remedy to any third party.
                     </p>
                     <h5 class="h5-xl"><strong>Contact Information</strong></h5>
