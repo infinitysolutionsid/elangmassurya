@@ -88,11 +88,11 @@
                                         <div>About Us</div>
                                     </a>
                                 </li>
-                                <li class="menu-item">
+                                {{-- <li class="menu-item">
                                     <a class="menu-link" href="/services">
                                         <div>Services</div>
                                     </a>
-                                </li>
+                                </li> --}}
                                 <li class="menu-item">
                                     <a class="menu-link" href="/gallery">
                                         <div>Gallery</div>

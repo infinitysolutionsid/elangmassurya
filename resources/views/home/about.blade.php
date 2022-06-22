@@ -5,19 +5,6 @@ keberadaan perusahaan itu telah memegang reputasi besar pada fabrikasi baja untu
 peralatan, pabrik pemecah batu dan industri umum.')
 @section('page_keywords', '')
 @section('content')
-<section id="page-title">
-
-    <div class="container clearfix">
-        <h1>About Us</h1>
-        <span>Everything you need to know about our Company</span>
-        <ol class="breadcrumb">
-            <li class="breadcrumb-item"><a href="#">Home</a></li>
-            <li class="breadcrumb-item active" aria-current="page">About Us</li>
-        </ol>
-    </div>
-
-</section><!-- #page-title end -->
-
 <!-- Content
 		============================================= -->
 <section id="content">
@@ -35,17 +22,17 @@ peralatan, pabrik pemecah batu dan industri umum.')
                     <div class="fslider" data-pagi="false" data-animation="fade">
                         <div class="flexslider">
                             <div class="slider-wrap">
-                                <div class="slide"><a href="#"><img src="{!!asset('webpage/images/about/4.jpg')!!}"
-                                            alt="About Image"></a>
+                                <div class="slide"><a href="#"><img
+                                            src="{!!asset('webpage/images/ems/aboutus-1.jpg')!!}" alt="About Image"></a>
                                 </div>
-                                <div class="slide"><a href="#"><img src="{!!asset('webpage/images/about/5.jpg')!!}"
-                                            alt="About Image"></a>
+                                <div class="slide"><a href="#"><img
+                                            src="{!!asset('webpage/images/ems/aboutus-2.jpg')!!}" alt="About Image"></a>
                                 </div>
-                                <div class="slide"><a href="#"><img src="{!!asset('webpage/images/about/6.jpg')!!}"
-                                            alt="About Image"></a>
+                                <div class="slide"><a href="#"><img
+                                            src="{!!asset('webpage/images/ems/aboutus-3.jpg')!!}" alt="About Image"></a>
                                 </div>
-                                <div class="slide"><a href="#"><img src="{!!asset('webpage/images/about/7.jpg')!!}"
-                                            alt="About Image"></a>
+                                <div class="slide"><a href="#"><img
+                                            src="{!!asset('webpage/images/ems/aboutus-4.jpg')!!}" alt="About Image"></a>
                                 </div>
                             </div>
                         </div>
@@ -81,10 +68,10 @@ peralatan, pabrik pemecah batu dan industri umum.')
                     </div>
 
                     <ol type="disc">
-                        <ul>Menjadi Perusahaan yang profitable</ul>
-                        <ul>Memperluas Pasar Sasaran secara berkesinambungan</ul>
-                        <ul>Memberikan pelayanan tepat waktu kepada pelanggan</ul>
-                        <ul>Menempatkan SDM yang kompeten untuk jabatan yang tepat </ul>
+                        <li>Menjadi Perusahaan yang profitable</li>
+                        <li>Memperluas Pasar Sasaran secara berkesinambungan</li>
+                        <li>Memberikan pelayanan tepat waktu kepada pelanggan</li>
+                        <li>Menempatkan SDM yang kompeten untuk jabatan yang tepat </li>
                     </ol>
 
                 </div>

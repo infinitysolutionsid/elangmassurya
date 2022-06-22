@@ -12,9 +12,11 @@ peralatan, pabrik pemecah batu dan industri umum.')
         <div id="oc-slider" class="owl-carousel carousel-widget" data-items="1" data-loop="true" data-nav="true"
             data-autoplay="5000" data-animate-in="fadeIn" data-animate-out="fadeOut" data-speed="800">
 
-            <a href="#"><img src="{!!asset('webpage/demos/elangmas/assets/4.png')!!}" alt="Slider"></a>
-            <a href="#"><img src="{!!asset('webpage/demos/elangmas/assets/2.png')!!}" alt="Slider"></a>
-            <a href="#"><img src="{!!asset('webpage/demos/elangmas/assets/3.png')!!}" alt="Slider"></a>
+            <a href="#"><img src="{!!asset('webpage/images/ems/home-1.jpg')!!}" alt="Slider"></a>
+            <a href="#"><img src="{!!asset('webpage/images/ems/home-2.jpg')!!}" alt="Slider"></a>
+            <a href="#"><img src="{!!asset('webpage/images/ems/home-3.jpg')!!}" alt="Slider"></a>
+            <a href="#"><img src="{!!asset('webpage/images/ems/home-4.jpg')!!}" alt="Slider"></a>
+            <a href="#"><img src="{!!asset('webpage/images/ems/home-5.jpg')!!}" alt="Slider"></a>
 
         </div>
 
@@ -23,53 +25,59 @@ peralatan, pabrik pemecah batu dan industri umum.')
 
 </section>
 
-<!-- Content
-		============================================= -->
 <section id="content">
-    <div class="content-wrap">
+    <div class="content-wrap" style="padding: 50px 0px !important;">
         <div class="container clearfix">
-
+            <div class="row clearfix">
+                <div class="col-lg-6 offset-3 text-center">
+                    <h2 class="left" style="text-transform: uppercase;">PT. Elang Mas Surya</h2>
+                    <p>adalah perusahaan terpercaya di bidang konstruksi, manufakturing, dan general supplier untuk
+                        industri
+                        kelapa sawit (palm oil), pemecah batu (stone crusher), pertambangan (mining), dan general
+                        industri.
+                    </p>
+                </div>
+            </div>
             <div class="row clearfix">
 
-                <div class="col-lg-4 center bottommargin">
+                <div class="col-lg-4 offset-1 center bottommargin">
                     <i class="i-plain color i-large icon-line2-screen-desktop inline-block"
                         style="margin-bottom: 20px;"></i>
                     <div class="heading-block border-bottom-0" style="margin-bottom: 15px;">
-                        <span class="before-heading">Scalable on any Business.</span>
-                        <h4>Kelebihan</h4>
+                        <h4>Visi</h4>
                     </div>
-                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam recusandae aut inventore velit
-                        corporis tempore accusantium voluptatem, cumque, ullam et, maiores sapiente placeat alias?
-                        Eligendi quidem quis tenetur natus minus..</p>
+                    <p>Menjadi perusahaan kontraktor dan supplier untuk Palm oil Mill, Stone Crusher, Mining dan Oil &
+                        Gas yang terbaik di Indonesia.</p>
                 </div>
 
-                <div class="col-lg-4 center bottommargin">
+                <div class="col-lg-4 offset-1 center bottommargin">
                     <i class="i-plain color i-large icon-line2-energy inline-block" style="margin-bottom: 20px;"></i>
                     <div class="heading-block border-bottom-0" style="margin-bottom: 15px;">
-                        <span class="before-heading">Smartly Maintained.</span>
-                        <h4>Kelebihan</h4>
+                        <h4>Misi</h4>
                     </div>
-                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam recusandae aut inventore velit
-                        corporis tempore accusantium voluptatem, cumque, ullam et, maiores sapiente placeat alias?
-                        Eligendi quidem quis tenetur natus minus..</p>
-                </div>
-
-                <div class="col-lg-4 center bottommargin">
-                    <i class="i-plain color i-large icon-line2-equalizer inline-block" style="margin-bottom: 20px;"></i>
-                    <div class="heading-block border-bottom-0" style="margin-bottom: 15px;">
-                        <span class="before-heading">Flexible &amp; Customizable.</span>
-                        <h4>Kelebihan</h4>
-                    </div>
-                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam recusandae aut inventore velit
-                        corporis tempore accusantium voluptatem, cumque, ullam et, maiores sapiente placeat alias?
-                        Eligendi quidem quis tenetur natus minus..</p>
+                    <p>
+                        <ol type="disc">
+                            <li>Menjadi Perusahaan yang profitable</li>
+                            <li>Memperluas Pasar Sasaran secara berkesinambungan</li>
+                            <li>Memberikan pelayanan tepat waktu kepada pelanggan</li>
+                            <li>Menempatkan SDM yang kompeten untuk jabatan yang tepat </li>
+                        </ol>
+                    </p>
                 </div>
 
             </div>
+        </div>
+    </div>
+</section>
+<!-- Content
+		============================================= -->
+<section id="content">
+    <div class="content-wrap" style="padding-top: 0px;">
+        <div class="container clearfix">
 
             <div class="line mt-0"></div>
 
-            <h3 class="center">Some of our <span>Latest</span> Works</h3>
+            <h3 class="left">Our <span>Latest</span> Projects</h3>
 
             <div id="oc-portfolio" class="owl-carousel portfolio-carousel carousel-widget" data-margin="1"
                 data-loop="true" data-nav="true" data-pagi="false" data-items-xs="1" data-items-sm="2" data-items-md="3"
@@ -95,9 +103,8 @@ pabrik pemecah batu">
                         </div>
                     </div>
                     <div class="portfolio-desc">
-                        <h3><a href="#">Spesialisasi untuk proyek
-                                pabrik pemecah batu</a></h3>
-                        <span><a href="#">Pabrik</a></span>
+                        <h3><a href="#">Stone crusher plant</a></h3>
+                        <span><a href="#">Proyek Stone Crusher</a></span>
                     </div>
                 </div>
 
@@ -120,9 +127,8 @@ pabrik pemecah batu">
                         </div>
                     </div>
                     <div class="portfolio-desc">
-                        <h3><a href="#">Spesialisasi untuk proyek
-                                pabrik kelapa sawit</a></h3>
-                        <span><a href="#">Kelapa Sawit</a></span>
+                        <h3><a href="#">Rebusan / Sterilizer</a></h3>
+                        <span><a href="#">Proyek Kelapa Sawit</a></span>
                     </div>
                 </div>
                 <div class="portfolio-item">
@@ -143,9 +149,8 @@ pabrik pemecah batu">
                         </div>
                     </div>
                     <div class="portfolio-desc">
-                        <h3><a href="#">Spesialisasi untuk proyek
-                                pabrik kelapa sawit</a></h3>
-                        <span><a href="#">Kelapa Sawit</a></span>
+                        <h3><a href="#">Storage tank</a></h3>
+                        <span><a href="#">Proyek Kelapa Sawit</a></span>
                     </div>
                 </div>
                 <div class="portfolio-item">
@@ -169,9 +174,8 @@ pabrik pemecah batu">
                         </div>
                     </div>
                     <div class="portfolio-desc">
-                        <h3><a href="#">Spesialisasi untuk proyek
-                                pabrik kelapa sawit</a></h3>
-                        <span><a href="#">Kelapa Sawit</a></span>
+                        <h3><a href="#">Stone Crusher Plant</a></h3>
+                        <span><a href="#">Proyek Stone Crusher</a></span>
                     </div>
                 </div>
                 <div class="portfolio-item">
@@ -193,44 +197,12 @@ pabrik pemecah batu">
                         </div>
                     </div>
                     <div class="portfolio-desc">
-                        <h3><a href="#">Spesialisasi untuk proyek
-                                pabrik kelapa sawit</a></h3>
-                        <span><a href="#">Kelapa Sawit</a></span>
+                        <h3><a href="#">Stone Crusher Plant</a></h3>
+                        <span><a href="#">Proyek Stone Crusher</a></span>
                     </div>
                 </div>
 
             </div>
-
-            <div class="line"></div>
-
-            <div id="oc-clients" class="owl-carousel image-carousel carousel-widget" data-margin="100" data-loop="true"
-                data-nav="false" data-autoplay="5000" data-pagi="false" data-items-xs="2" data-items-sm="3"
-                data-items-md="4" data-items-lg="5" data-items-xl="6">
-
-                <div class="oc-item"><a href="#"><img src="{!!asset('webpage/images/clients/1.png')!!}"
-                            alt="Clients"></a></div>
-                <div class="oc-item"><a href="#"><img src="{!!asset('webpage/images/clients/2.png')!!}"
-                            alt="Clients"></a></div>
-                <div class="oc-item"><a href="#"><img src="{!!asset('webpage/images/clients/3.png')!!}"
-                            alt="Clients"></a></div>
-                <div class="oc-item"><a href="#"><img src="{!!asset('webpage/images/clients/4.png')!!}"
-                            alt="Clients"></a></div>
-                <div class="oc-item"><a href="#"><img src="{!!asset('webpage/images/clients/5.png')!!}"
-                            alt="Clients"></a></div>
-                <div class="oc-item"><a href="#"><img src="{!!asset('webpage/images/clients/6.png')!!}"
-                            alt="Clients"></a></div>
-                <div class="oc-item"><a href="#"><img src="{!!asset('webpage/images/clients/7.png')!!}"
-                            alt="Clients"></a></div>
-                <div class="oc-item"><a href="#"><img src="{!!asset('webpage/images/clients/8.png')!!}"
-                            alt="Clients"></a></div>
-                <div class="oc-item"><a href="#"><img src="{!!asset('webpage/images/clients/9.png')!!}"
-                            alt="Clients"></a></div>
-                <div class="oc-item"><a href="#"><img src="{!!asset('webpage/images/clients/10.png')!!}"
-                            alt="Clients"></a></div>
-
-            </div>
-
-
         </div>
     </div>
 </section><!-- #content end -->
