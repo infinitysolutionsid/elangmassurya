@@ -1,11 +1,18 @@
-/* ----------------------------------------------------------------
-	Custom CSS
+.portfolio-item .portfolio-image,
+.portfolio-item .portfolio-image>a,
+.portfolio-item .portfolio-image img {
+    width: 400px;
+    height: 200px;
+    object-fit: cover;
+}
 
-	Add all your Custom Styled CSS here for New Styles or
-	Overwriting Default Theme Styles for Better Handling Updates
------------------------------------------------------------------*/
+.bg-overlay,
+.bg-overlay-bg,
+.bg-overlay-content {
+    width: 400px;
+    height: 200px;
+}
 
-
-.heading-block span{
-    
+.bg-overlay {
+    z-index: 0;
 }
