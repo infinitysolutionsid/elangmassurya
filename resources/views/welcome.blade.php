@@ -16,7 +16,7 @@
     <link rel="stylesheet" href="{!!asset('webpage/css/font-icons.css')!!}" type="text/css" />
     <link rel="stylesheet" href="{!!asset('webpage/css/animate.css')!!}" type="text/css" />
     <link rel="stylesheet" href="{!!asset('webpage/css/magnific-popup.css')!!}" type="text/css" />
-    <link rel="stylesheet" href="{!!asset('webpage/css/custom.css')!!}" type="text/css" />
+    <link rel="stylesheet" href="{!!asset('webpage/css/custom.css?'.rand(10000,99999))!!}" type="text/css" />
     <link rel="stylesheet" href="{!!asset('webpage/demos/agency/agency.css')!!}" type="text/css" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <link rel="stylesheet" href="{!!asset('webpage/css/colors.php')!!}?color=E1C671" type="text/css" />
