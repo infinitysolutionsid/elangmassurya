@@ -14,7 +14,7 @@ peralatan, pabrik pemecah batu dan industri umum.')
 
             <a href="#"><img src="{!!asset('webpage/images/ems/home-1.jpg')!!}" alt="Slider"></a>
             <a href="#"><img src="{!!asset('webpage/images/ems/home-2.jpg')!!}" alt="Slider"></a>
-            <a href="#"><img src="{!!asset('webpage/images/ems/home-3.jpg')!!}" alt="Slider"></a>
+            <a href="#"><img src="{!!asset('webpage/images/ems/home-3.jpg')!!}" alt="Slider home-3"></a>
             <a href="#"><img src="{!!asset('webpage/images/ems/home-4.jpg')!!}" alt="Slider"></a>
             <a href="#"><img src="{!!asset('webpage/images/ems/home-5.jpg')!!}" alt="Slider"></a>
 
