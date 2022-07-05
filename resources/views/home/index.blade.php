@@ -33,8 +33,9 @@ peralatan, pabrik pemecah batu dan industri umum.')
                     <h2 class="left" style="text-transform: uppercase;">PT. Elang Mas Surya</h2>
                     <p>adalah perusahaan terpercaya di bidang konstruksi, manufakturing, dan general supplier untuk
                         industri
-                        kelapa sawit (palm oil), pemecah batu (stone crusher), pertambangan (mining), dan general
-                        industri.
+                        kelapa sawit (palm oil), pemecah batu (stone crusher), pertambangan (mining), dan industri umum
+                        (general
+                        industry).
                     </p>
                 </div>
             </div>
@@ -50,13 +51,13 @@ peralatan, pabrik pemecah batu dan industri umum.')
                         Gas yang terbaik di Indonesia.</p>
                 </div>
 
-                <div class="col-lg-4 offset-1 center bottommargin">
+                <div class="col-lg-4 offset-1 bottommargin" style="text-align: center;">
                     <i class="i-plain color i-large icon-line2-energy inline-block" style="margin-bottom: 20px;"></i>
                     <div class="heading-block border-bottom-0" style="margin-bottom: 15px;">
                         <h4>Misi</h4>
                     </div>
                     <p>
-                        <ol type="disc">
+                        <ol type="disc" style="text-align: left;">
                             <li>Menjadi Perusahaan yang profitable</li>
                             <li>Memperluas Pasar Sasaran secara berkesinambungan</li>
                             <li>Memberikan pelayanan tepat waktu kepada pelanggan</li>
@@ -77,7 +78,7 @@ peralatan, pabrik pemecah batu dan industri umum.')
 
             <div class="line mt-0"></div>
 
-            <h3 class="left">Our <span>Latest</span> Projects</h3>
+            <h3 class="left">Our Projects</h3>
 
             <div id="oc-portfolio" class="owl-carousel portfolio-carousel carousel-widget" data-margin="1"
                 data-loop="true" data-nav="true" data-pagi="false" data-items-xs="1" data-items-sm="2" data-items-md="3"
@@ -91,7 +92,7 @@ pabrik pemecah batu">
                         </a>
                         <div class="bg-overlay">
                             <div class="bg-overlay-content dark" data-hover-animate="fadeIn" data-hover-speed="350">
-                                <a href="images/portfolio/full/1.png')!!}"
+                                <a href="{!!asset('webpage/demos/elangmas/assets/1.png')!!}"
                                     class="overlay-trigger-icon bg-light text-dark" data-hover-animate="fadeInDownSmall"
                                     data-hover-animate-out="fadeInUpSmall" data-hover-speed="350"
                                     data-lightbox="image"><i class="icon-line-plus"></i></a>
@@ -115,7 +116,7 @@ pabrik pemecah batu">
                         </a>
                         <div class="bg-overlay">
                             <div class="bg-overlay-content dark" data-hover-animate="fadeIn" data-hover-speed="350">
-                                <a href="images/portfolio/full/2.png')!!}"
+                                <a href="{!!asset('webpage/demos/elangmas/assets/2.png')!!}"
                                     class="overlay-trigger-icon bg-light text-dark" data-hover-animate="fadeInDownSmall"
                                     data-hover-animate-out="fadeInUpSmall" data-hover-speed="350"
                                     data-lightbox="image"><i class="icon-line-plus"></i></a>
@@ -138,9 +139,10 @@ pabrik pemecah batu">
                         </a>
                         <div class="bg-overlay">
                             <div class="bg-overlay-content dark" data-hover-animate="fadeIn" data-hover-speed="350">
-                                <a href="https://vimeo.com/89396394" class="overlay-trigger-icon bg-light text-dark"
-                                    data-hover-animate="fadeInDownSmall" data-hover-animate-out="fadeInUpSmall"
-                                    data-hover-speed="350" data-lightbox="iframe"><i class="icon-line-play"></i></a>
+                                <a href="{!!asset('webpage/demos/elangmas/assets/3.png')!!}"
+                                    class="overlay-trigger-icon bg-light text-dark" data-hover-animate="fadeInDownSmall"
+                                    data-hover-animate-out="fadeInUpSmall" data-hover-speed="350"
+                                    data-lightbox="iframe"><i class="icon-line-play"></i></a>
                                 <a href="#" class="overlay-trigger-icon bg-light text-dark"
                                     data-hover-animate="fadeInDownSmall" data-hover-animate-out="fadeInUpSmall"
                                     data-hover-speed="350"><i class="icon-line-ellipsis"></i></a>
@@ -160,11 +162,11 @@ pabrik pemecah batu">
                         </a>
                         <div class="bg-overlay" data-lightbox="gallery">
                             <div class="bg-overlay-content dark" data-hover-animate="fadeIn">
-                                <a href="images/portfolio/full/4.png')!!}"
+                                <a href="i{!!asset('webpage/demos/elangmas/assets/4.png')!!}"
                                     class="overlay-trigger-icon bg-light text-dark" data-hover-animate="fadeInDownSmall"
                                     data-hover-animate-out="fadeOutUpSmall" data-hover-speed="350"
                                     data-lightbox="gallery-item"><i class="icon-line-stack-2"></i></a>
-                                <a href="images/portfolio/full/4-1.jpg')!!}" class="d-none"
+                                <a href="{!!asset('webpage/demos/elangmas/assets/4.png')!!}" class="d-none"
                                     data-lightbox="gallery-item"></a>
                                 <a href="#" class="overlay-trigger-icon bg-light text-dark"
                                     data-hover-animate="fadeInDownSmall" data-hover-animate-out="fadeOutUpSmall"
@@ -181,11 +183,59 @@ pabrik pemecah batu">
                 <div class="portfolio-item">
                     <div class="portfolio-image">
                         <a href="#">
+                            <img src="{!!asset('webpage/images/ems/palm-oil-mills/1-min.jpg')!!}"
+                                alt="Console Activity">
+                        </a>
+                        <div class="bg-overlay">
+                            <div class="bg-overlay-content dark" data-hover-animate="fadeIn">
+                                <a href="{!!asset('webpage/images/ems/palm-oil-mills/1-min.jpg')!!}"
+                                    class="overlay-trigger-icon bg-light text-dark" data-hover-animate="fadeInDownSmall"
+                                    data-hover-animate-out="fadeOutUpSmall" data-hover-speed="350" data-lightbox="image"
+                                    title="Image"><i class="icon-line-plus"></i></a>
+                                <a href="#" class="overlay-trigger-icon bg-light text-dark"
+                                    data-hover-animate="fadeInDownSmall" data-hover-animate-out="fadeOutUpSmall"
+                                    data-hover-speed="350"><i class="icon-line-ellipsis"></i></a>
+                            </div>
+                            <div class="bg-overlay-bg dark" data-hover-animate="fadeIn"></div>
+                        </div>
+                    </div>
+                    <div class="portfolio-desc">
+                        <h3><a href="#">Palm Oil Mills</a></h3>
+                        <span><a href="#">Proyek Palm Oil Mills</a></span>
+                    </div>
+                </div>
+                <div class="portfolio-item">
+                    <div class="portfolio-image">
+                        <a href="#">
                             <img src="{!!asset('webpage/demos/elangmas/assets/5.png')!!}" alt="Console Activity">
                         </a>
                         <div class="bg-overlay">
                             <div class="bg-overlay-content dark" data-hover-animate="fadeIn">
-                                <a href="images/portfolio/full/5.png')!!}"
+                                <a href="{!!asset('webpage/demos/elangmas/assets/5.png')!!}"
+                                    class="overlay-trigger-icon bg-light text-dark" data-hover-animate="fadeInDownSmall"
+                                    data-hover-animate-out="fadeOutUpSmall" data-hover-speed="350" data-lightbox="image"
+                                    title="Image"><i class="icon-line-plus"></i></a>
+                                <a href="#" class="overlay-trigger-icon bg-light text-dark"
+                                    data-hover-animate="fadeInDownSmall" data-hover-animate-out="fadeOutUpSmall"
+                                    data-hover-speed="350"><i class="icon-line-ellipsis"></i></a>
+                            </div>
+                            <div class="bg-overlay-bg dark" data-hover-animate="fadeIn"></div>
+                        </div>
+                    </div>
+                    <div class="portfolio-desc">
+                        <h3><a href="#">Stone Crusher Plant</a></h3>
+                        <span><a href="#">Proyek Stone Crusher</a></span>
+                    </div>
+                </div>
+                <div class="portfolio-item">
+                    <div class="portfolio-image">
+                        <a href="#">
+                            <img src="{!!asset('webpage/images/ems/palm-oil-mills/3-min.jpg')!!}"
+                                alt="Console Activity">
+                        </a>
+                        <div class="bg-overlay">
+                            <div class="bg-overlay-content dark" data-hover-animate="fadeIn">
+                                <a href="{!!asset('webpage/images/ems/palm-oil-mills/3-min.jpg')!!}"
                                     class="overlay-trigger-icon bg-light text-dark" data-hover-animate="fadeInDownSmall"
                                     data-hover-animate-out="fadeOutUpSmall" data-hover-speed="350" data-lightbox="image"
                                     title="Image"><i class="icon-line-plus"></i></a>

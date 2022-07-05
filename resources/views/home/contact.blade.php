@@ -60,9 +60,11 @@ peralatan, pabrik pemecah batu dan industri umum.')
                                 <select id="template-contactform-service" name="template-contactform-service"
                                     class="sm-form-control">
                                     <option value="">-- Select One --</option>
-                                    <option value="Bahan Ajar">Bahan Ajar</option>
-                                    <option value="Rencana Bahan Ajar">Rencana Bahan Ajar</option>
-                                    <option value="Lain Lain">Lain Lain</option>
+                                    <option value="Palm Oil Mill">Palm Oil Mill</option>
+                                    <option value="Stone Crusher">Stone Crusher</option>
+                                    <option value="Mining">Mining</option>
+                                    <option value="Oil & Gas">Oil & Gas</option>
+                                    <option value="Cement Mill">Cement Mill</option>
                                 </select>
                             </div>
 

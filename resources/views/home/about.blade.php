@@ -16,7 +16,7 @@ peralatan, pabrik pemecah batu dan industri umum.')
 
                     <div class="heading-block center border-bottom-0">
                         <h2>About Us</h2>
-                        <span>Lorem ipsum, dolor sit amet consectetur adipisicing elit.</span>
+                        {{-- <span>Lorem ipsum, dolor sit amet consectetur adipisicing elit.</span> --}}
                     </div>
 
                     <div class="fslider" data-pagi="false" data-animation="fade">
