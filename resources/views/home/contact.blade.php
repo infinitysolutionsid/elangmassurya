@@ -14,7 +14,7 @@ peralatan, pabrik pemecah batu dan industri umum.')
 						============================================= -->
                 <div class="postcontent col-lg-9">
 
-                    <h3>Send us an Email</h3>
+                    <h3>{{__('send_us_an_email')}}</h3>
 
                     <div class="form-widget">
 
@@ -90,7 +90,7 @@ peralatan, pabrik pemecah batu dan industri umum.')
 
                             <div class="col-12 form-group">
                                 <button class="button button-3d m-0" type="submit" id="template-contactform-submit"
-                                    name="template-contactform-submit" value="submit">Send Message</button>
+                                    name="template-contactform-submit" value="submit">{{__('send_message')}}</button>
                             </div>
 
                             <input type="hidden" name="prefix" value="template-contactform-">
@@ -106,7 +106,7 @@ peralatan, pabrik pemecah batu dan industri umum.')
                 <div class="sidebar col-lg-3">
 
                     <address>
-                        <strong>Kantor kami:</strong><br>
+                        <strong>{{__('our_offie')}}:</strong><br>
                         Jl Samarinda No.12-14, <br>
                         Medan - Sumatera Utara
                         20213 - Indonesia

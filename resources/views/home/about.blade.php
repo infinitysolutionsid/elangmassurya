@@ -15,7 +15,7 @@ peralatan, pabrik pemecah batu dan industri umum.')
                 <div class="col-12">
 
                     <div class="heading-block center border-bottom-0">
-                        <h2>About Us</h2>
+                        <h2>{{__('about_us')}}</h2>
                         {{-- <span>Lorem ipsum, dolor sit amet consectetur adipisicing elit.</span> --}}
                     </div>
 
@@ -43,20 +43,14 @@ peralatan, pabrik pemecah batu dan industri umum.')
                 <div class="col-lg-12">
 
                     <div class="heading-block fancy-title border-bottom-0 title-bottom-border">
-                        <h4>Our Story</h4>
+                        <h4>{{__('our_story')}}</h4>
                     </div>
 
-                    <p>PT. Elang Mas Surya ( EMS ) didirikan oleh Bapak Binsar Ho pada akhir tahun 1990-an, sejak
-                        keberadaan perusahaan itu telah memegang reputasi besar pada fabrikasi baja untuk pemrosesan
-                        pabrik kelapa sawit peralatan, pabrik pemecah batu dan industri umum.
+                    <p>{{__('about_text_1')}}
                         <br><br>
-                        EMS dengan pengalaman bertahun-tahun keahlian adalah spesialisasi dalam Desain, Pasokan, Layanan
-                        & Optimalisasi peralatan proses dan komponen aus untuk industri pabrik kelapa sawit, pabrik
-                        pemecah batu dan industri umum.
+                        {{__('about_text_2')}}
                         <br><br>
-                        Filosofi EMS adalah menyediakan solusi yang dioptimalkan kepada pelanggan melalui setelan
-                        dukungan teknis kepada pelanggan, persyaratan, sehingga memberikan solusi yang dirancang khusus
-                        secara ideal untuk aplikasi, dan menawarkan layanan untuk pengoptimalan proses di seluruh dunia.
+                        {{__('about_text_3')}}
                     </p>
 
                 </div>
@@ -64,14 +58,14 @@ peralatan, pabrik pemecah batu dan industri umum.')
                 <div class="col-lg-6 text-left">
 
                     <div class="heading-block fancy-title border-bottom-0 title-bottom-border">
-                        <h4>Our <span>Mission</span>.</h4>
+                        <h4>{{__('mission')}}</h4>
                     </div>
 
                     <ol type="disc">
-                        <li>Menjadi Perusahaan yang profitable</li>
-                        <li>Memperluas Pasar Sasaran secara berkesinambungan</li>
-                        <li>Memberikan pelayanan tepat waktu kepada pelanggan</li>
-                        <li>Menempatkan SDM yang kompeten untuk jabatan yang tepat </li>
+                        <li>{{__('mission_one')}}</li>
+                        <li>{{__('mission_two')}}</li>
+                        <li>{{__('mission_three')}}</li>
+                        <li>{{__('mission_four')}}</li>
                     </ol>
 
                 </div>
@@ -79,11 +73,10 @@ peralatan, pabrik pemecah batu dan industri umum.')
                 <div class="col-lg-4 offset-2 text-center">
 
                     <div class="heading-block fancy-title border-bottom-0 title-bottom-border">
-                        <h4>OUR <span>VISION</span>.</h4>
+                        <h4>{{__('vision')}}</h4>
                     </div>
 
-                    <p>Menjadi perusahaan kontraktor dan supplier untuk Palm oil Mill, Stone Crusher, Mining dan Oil &
-                        Gas yang terbaik di Indonesia.</p>
+                    <p>{{__('vision_text')}}</p>
 
                 </div>
 

@@ -30,6 +30,7 @@ Route::get('/facebook', function () {
     return Redirect::to('http://www.facebook.com/');
 });
 
+Route::get('lang/{lang}', ['as' => 'lang.switch', 'uses' => 'LanguageController@switchLang']);
 
 // General Menu
 Route::get('/', 'webpageController@index');
@@ -38,14 +39,6 @@ Route::get('/events', 'webpageController@events');
 Route::get('/gallery', 'webpageController@gallery');
 Route::get('/about-us', 'webpageController@aboutUs');
 Route::get('/contact-us', 'webpageController@contactUs');
-
-Route::prefix('/educative')->group(function () {
-    Route::get('/bahan-ajar', 'webpageController@bahanAjar');
-    Route::get('/rencana-ajar', 'webpageController@rencanaAjar');
-    Route::get('/lembar-kerja', 'webpageController@lembarKerja');
-    Route::get('/inspirasi', 'webpageController@inspirasi');
-    Route::get('/detail', 'webpageController@detailAjar');
-});
 
 
 // additional

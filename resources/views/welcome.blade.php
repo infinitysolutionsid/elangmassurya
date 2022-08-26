@@ -21,14 +21,17 @@
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <link rel="stylesheet" href="{!!asset('webpage/css/colors.php')!!}?color=E1C671" type="text/css" />
     <link rel="shortcut icon" href="{!!asset('webpage/demos/elangmas/logo.ico')!!}" type="image/x-icon">
-    <link rel="stylesheet" href="{!!asset('webpage/css/components/bs-rating.css?'.rand(10000,99999))!!}" type="text/css" />
+    <link rel="stylesheet" href="{!!asset('webpage/css/components/bs-rating.css?'.rand(10000,99999))!!}"
+        type="text/css" />
     <script src="https://kit.fontawesome.com/98c197c895.js" crossorigin="anonymous"></script>
 
     <!-- SLIDER REVOLUTION 5.x CSS SETTINGS -->
-    <link rel="stylesheet" type="text/css" href="{!!asset('webpage/include/rs-plugin/css/settings.css?'.rand(10000,99999))!!}"
-        media="screen" />
-    <link rel="stylesheet" type="text/css" href="{!!asset('webpage/include/rs-plugin/css/layers.css?'.rand(10000,99999))!!}">
-    <link rel="stylesheet" type="text/css" href="{!!asset('webpage/include/rs-plugin/css/navigation.css?'.rand(10000,99999))!!}">
+    <link rel="stylesheet" type="text/css"
+        href="{!!asset('webpage/include/rs-plugin/css/settings.css?'.rand(10000,99999))!!}" media="screen" />
+    <link rel="stylesheet" type="text/css"
+        href="{!!asset('webpage/include/rs-plugin/css/layers.css?'.rand(10000,99999))!!}">
+    <link rel="stylesheet" type="text/css"
+        href="{!!asset('webpage/include/rs-plugin/css/navigation.css?'.rand(10000,99999))!!}">
 
     <!-- Document Description
 	============================================= -->
@@ -121,12 +124,12 @@
                             <ul class="menu-container justify-content-lg-center">
                                 <li class="menu-item">
                                     <a class="menu-link" href="/">
-                                        <div>Home</div>
+                                        <div>{{__('home')}}</div>
                                     </a>
                                 </li>
                                 <li class="menu-item">
                                     <a class="menu-link" href="/about-us">
-                                        <div>About Us</div>
+                                        <div>{{__('about_us')}}</div>
                                     </a>
                                 </li>
                                 {{-- <li class="menu-item">
@@ -136,12 +139,12 @@
                                 </li> --}}
                                 <li class="menu-item">
                                     <a class="menu-link" href="/gallery">
-                                        <div>Gallery</div>
+                                        <div>{{__('gallery')}}</div>
                                     </a>
                                 </li>
                                 <li class="menu-item">
                                     <a class="menu-link" href="/contact-us">
-                                        <div>Contact Us</div>
+                                        <div>{{__('contact_us')}}</div>
                                     </a>
                                 </li>
                             </ul>
@@ -171,7 +174,9 @@
                             <?php $y = date('Y'); ?>
                             Copyrights &copy; {{$y}} Elang Mas Surya. All Rights Reserved by Infinity Solutions.<br>
                             <div class="copyright-links"><a href="/terms-conditions">Terms of Use</a> / <a
-                                    href="/privacy-policy">Privacy Policy</a>
+                                    href="/privacy-policy">Privacy Policy</a> | {{__('choose_lang')}}: <a
+                                        href="/lang/id">ID</a>
+                                / <a href="/lang/en">EN</a>
                             </div>
                         </div>
 
@@ -223,19 +228,34 @@
     <!-- Footer Scripts
 	============================================= -->
     <script src="{!!asset('webpage/js/functions.js?'.rand(10000,99999))!!}"></script>
-    <script src="{!!asset('webpage/include/rs-plugin/js/jquery.themepunch.tools.min.js?'.rand(10000,99999))!!}"></script>
-    <script src="{!!asset('webpage/include/rs-plugin/js/jquery.themepunch.revolution.min.js?'.rand(10000,99999))!!}"></script>
-    <script src="{!!asset('webpage/include/rs-plugin/js/extensions/revolution.extension.video.min.js?'.rand(10000,99999))!!}"></script>
-    <script src="{!!asset('webpage/include/rs-plugin/js/extensions/revolution.extension.slideanims.min.js?'.rand(10000,99999))!!}">
+    <script src="{!!asset('webpage/include/rs-plugin/js/jquery.themepunch.tools.min.js?'.rand(10000,99999))!!}">
     </script>
-    <script src="{!!asset('webpage/include/rs-plugin/js/extensions/revolution.extension.actions.min.js?'.rand(10000,99999))!!}"></script>
-    <script src="{!!asset('webpage/include/rs-plugin/js/extensions/revolution.extension.layeranimation.min.js?'.rand(10000,99999))!!}">
+    <script src="{!!asset('webpage/include/rs-plugin/js/jquery.themepunch.revolution.min.js?'.rand(10000,99999))!!}">
     </script>
-    <script src="{!!asset('webpage/include/rs-plugin/js/extensions/revolution.extension.kenburn.min.js?'.rand(10000,99999))!!}"></script>
-    <script src="{!!asset('webpage/include/rs-plugin/js/extensions/revolution.extension.navigation.min.js?'.rand(10000,99999))!!}">
+    <script
+        src="{!!asset('webpage/include/rs-plugin/js/extensions/revolution.extension.video.min.js?'.rand(10000,99999))!!}">
     </script>
-    <script src="{!!asset('webpage/include/rs-plugin/js/extensions/revolution.extension.migration.min.js?'.rand(10000,99999))!!}"></script>
-    <script src="{!!asset('webpage/include/rs-plugin/js/extensions/revolution.extension.parallax.min.js?'.rand(10000,99999))!!}"></script>
+    <script
+        src="{!!asset('webpage/include/rs-plugin/js/extensions/revolution.extension.slideanims.min.js?'.rand(10000,99999))!!}">
+    </script>
+    <script
+        src="{!!asset('webpage/include/rs-plugin/js/extensions/revolution.extension.actions.min.js?'.rand(10000,99999))!!}">
+    </script>
+    <script
+        src="{!!asset('webpage/include/rs-plugin/js/extensions/revolution.extension.layeranimation.min.js?'.rand(10000,99999))!!}">
+    </script>
+    <script
+        src="{!!asset('webpage/include/rs-plugin/js/extensions/revolution.extension.kenburn.min.js?'.rand(10000,99999))!!}">
+    </script>
+    <script
+        src="{!!asset('webpage/include/rs-plugin/js/extensions/revolution.extension.navigation.min.js?'.rand(10000,99999))!!}">
+    </script>
+    <script
+        src="{!!asset('webpage/include/rs-plugin/js/extensions/revolution.extension.migration.min.js?'.rand(10000,99999))!!}">
+    </script>
+    <script
+        src="{!!asset('webpage/include/rs-plugin/js/extensions/revolution.extension.parallax.min.js?'.rand(10000,99999))!!}">
+    </script>
     <script>
         $("#input-7").rating({
             containerClass: 'is-heart',
