@@ -23,10 +23,6 @@ Route::prefix('sc/dev')->group(function () {
 Route::get('/linkedin', function () {
     return Redirect::to('https://linkedin.com/company/');
 });
-
-Route::get('/', function () {
-    return view('welcome');
-});
 Route::get('/instagram', function () {
     return Redirect::to('http://www.instagram.com/ptelangmas');
 });

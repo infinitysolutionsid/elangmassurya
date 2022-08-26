@@ -24,12 +24,53 @@
     <link rel="stylesheet" href="{!!asset('webpage/css/components/bs-rating.css')!!}" type="text/css" />
     <script src="https://kit.fontawesome.com/98c197c895.js" crossorigin="anonymous"></script>
 
+    <!-- SLIDER REVOLUTION 5.x CSS SETTINGS -->
+    <link rel="stylesheet" type="text/css" href="{!!asset('webpage/include/rs-plugin/css/settings.css')!!}"
+        media="screen" />
+    <link rel="stylesheet" type="text/css" href="{!!asset('webpage/include/rs-plugin/css/layers.css')!!}">
+    <link rel="stylesheet" type="text/css" href="{!!asset('webpage/include/rs-plugin/css/navigation.css')!!}">
+
     <!-- Document Description
 	============================================= -->
     <title>Elang Mas Surya - @yield('title')</title>
     <meta name="description" content="@yield('page_description')" />
     <meta name="keywords" content="elangmassurya, @yield('page_keywords')" />
 
+    <style>
+        <style>.revo-slider-emphasis-text {
+            font-size: 64px;
+            font-weight: 700;
+            letter-spacing: -1px;
+            font-family: 'Poppins', sans-serif;
+            padding: 15px 20px;
+            border-top: 2px solid #FFF;
+            border-bottom: 2px solid #FFF;
+        }
+
+        .revo-slider-desc-text {
+            font-size: 20px;
+            font-family: 'Lato', sans-serif;
+            width: 650px;
+            text-align: center;
+            line-height: 1.5;
+        }
+
+        .revo-slider-caps-text {
+            font-size: 16px;
+            font-weight: 400;
+            letter-spacing: 3px;
+            font-family: 'Poppins', sans-serif;
+        }
+
+        .tp-video-play-button {
+            display: none !important;
+        }
+
+        .tp-caption {
+            white-space: nowrap;
+        }
+
+    </style>
 </head>
 
 <body class="stretched">
@@ -182,6 +223,19 @@
     <!-- Footer Scripts
 	============================================= -->
     <script src="{!!asset('webpage/js/functions.js')!!}"></script>
+    <script src="{!!asset('webpage/include/rs-plugin/js/jquery.themepunch.tools.min.js')!!}"></script>
+    <script src="{!!asset('webpage/include/rs-plugin/js/jquery.themepunch.revolution.min.js')!!}"></script>
+    <script src="{!!asset('webpage/include/rs-plugin/js/extensions/revolution.extension.video.min.js')!!}"></script>
+    <script src="{!!asset('webpage/include/rs-plugin/js/extensions/revolution.extension.slideanims.min.js')!!}">
+    </script>
+    <script src="{!!asset('webpage/include/rs-plugin/js/extensions/revolution.extension.actions.min.js')!!}"></script>
+    <script src="{!!asset('webpage/include/rs-plugin/js/extensions/revolution.extension.layeranimation.min.js')!!}">
+    </script>
+    <script src="{!!asset('webpage/include/rs-plugin/js/extensions/revolution.extension.kenburn.min.js')!!}"></script>
+    <script src="{!!asset('webpage/include/rs-plugin/js/extensions/revolution.extension.navigation.min.js')!!}">
+    </script>
+    <script src="{!!asset('webpage/include/rs-plugin/js/extensions/revolution.extension.migration.min.js')!!}"></script>
+    <script src="{!!asset('webpage/include/rs-plugin/js/extensions/revolution.extension.parallax.min.js')!!}"></script>
     <script>
         $("#input-7").rating({
             containerClass: 'is-heart',
