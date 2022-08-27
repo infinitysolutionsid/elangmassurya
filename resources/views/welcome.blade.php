@@ -39,6 +39,33 @@
     <meta name="description" content="@yield('page_description')" />
     <meta name="keywords" content="elangmassurya, @yield('page_keywords')" />
 
+    {{-- Meta --}}
+    <meta name="og:title" property="og:title" content="@yield('title') | PT. Elang Mas Surya" />
+    <meta name="og:url" property="og:url" content="{{Request::url()}}" />
+    <meta name="og:type" property="og:type" content="website" />
+    <meta name="og:image" property="og:image"
+        content="@if(View::hasSection('tag_cover'))@yield('tag_cover')@else https://res.cloudinary.com/infinitysolutions-co-id/image/upload/v1661564443/elangmas_p5qngq.jpg @endif" />
+    <meta name="og:description" property="og:description"
+        content="@if(View::hasSection('page_description'))@yield('page_description')@else is a trusted company in the field of construction, manufacturing, and general supplier for the palm oil industry, stone crusher, mining and general industry. @endif" />
+    <meta name="twitter:card" content="@yield('title') | PT. Elang Mas Surya" />
+    <meta name="twitter:title" property="og:title" content="@yield('title') | PT. Elang Mas Surya" />
+    <meta name="twitter:url" property="og:url" content="{{Request::url()}}" />
+    <meta name="twitter:type" property="og:type" content="website" />
+    <meta name="twitter:image" property="og:image"
+        content="@if(View::hasSection('tag_cover'))@yield('tag_cover')@else https://res.cloudinary.com/infinitysolutions-co-id/image/upload/v1661564443/elangmas_p5qngq.jpg @endif" />
+    <meta name="twitter:description" property="og:description"
+        content="@if(View::hasSection('page_description'))@yield('page_description')@else is a trusted company in the field of construction, manufacturing, and general supplier for the palm oil industry, stone crusher, mining and general industry. @endif" />
+    <link rel="canonical" href="{{Request::url()}}/" />
+    <link rel="shortcut icon"
+        href="@if(View::hasSection('icon'))@yield('icon')@else {!!asset('webpage/demos/elangmas/logo.ico')!!} @endif"
+        type="image/png" sizes="64x64" />
+    <meta name="og:phone_number" content="08116548999" />
+    <meta name="og:street-address" content="Jl Samarinda No.12-14, Medan - Sumatera Utara 20213 - Indonesia" />
+    <meta name="og:locality" content="Sumatera Utara" />
+    <meta name="og:region" content="ID" />
+    <meta name="og:postal-code" content="20213" />
+    <meta name="og:country-name" content="Indonesia" />
+
     <style>
         <style>.revo-slider-emphasis-text {
             font-size: 64px;
@@ -175,7 +202,7 @@
                             Copyrights &copy; {{$y}} Elang Mas Surya. All Rights Reserved by Infinity Solutions.<br>
                             <div class="copyright-links"><a href="/terms-conditions">Terms of Use</a> / <a
                                     href="/privacy-policy">Privacy Policy</a> | {{__('choose_lang')}}: <a
-                                        href="/lang/id">ID</a>
+                                    href="/lang/id">ID</a>
                                 / <a href="/lang/en">EN</a>
                             </div>
                         </div>
