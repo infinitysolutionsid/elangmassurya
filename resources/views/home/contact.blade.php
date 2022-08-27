@@ -106,13 +106,13 @@ peralatan, pabrik pemecah batu dan industri umum.')
                 <div class="sidebar col-lg-3">
 
                     <address>
-                        <strong>{{__('our_offie')}}:</strong><br>
+                        <strong>{{__('our_office')}}:</strong><br>
                         Jl Samarinda No.12-14, <br>
                         Medan - Sumatera Utara
                         20213 - Indonesia
                     </address>
                     <abbr title="Phone Number"><strong>Phone:</strong></abbr> +62 8116548999<br>
-                    <abbr title="Email Address"><strong>Email:</strong></abbr> info@elangmassurya.co.id
+                    <abbr title="Email Address"><strong>Email:</strong></abbr> marketing@elangmassurya.co.id
 
                     <div class="widget border-0 pt-0">
 
