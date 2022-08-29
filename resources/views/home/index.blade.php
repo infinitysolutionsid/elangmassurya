@@ -113,12 +113,12 @@ peralatan, pabrik pemecah batu dan industri umum.')
                 <div class="portfolio-item">
                     <div class="portfolio-image">
                         <a href="#">
-                            <img src="{!!asset('webpage/demos/elangmas/assets/1.png')!!}" alt="Spesialisasi untuk proyek
+                            <img src="{!!asset('webpage/images/ems/stone-crusher-plans/14-min.jpg')!!}" alt="Spesialisasi untuk proyek
 pabrik pemecah batu">
                         </a>
                         <div class="bg-overlay">
                             <div class="bg-overlay-content dark" data-hover-animate="fadeIn" data-hover-speed="350">
-                                <a href="{!!asset('webpage/demos/elangmas/assets/1.png')!!}"
+                                <a href="{!!asset('webpage/images/ems/stone-crusher-plans/14-min.jpg')!!}"
                                     class="overlay-trigger-icon bg-light text-dark" data-hover-animate="fadeInDownSmall"
                                     data-hover-animate-out="fadeInUpSmall" data-hover-speed="350"
                                     data-lightbox="image"><i class="icon-line-plus"></i></a>
@@ -209,12 +209,12 @@ pabrik pemecah batu">
                 <div class="portfolio-item">
                     <div class="portfolio-image">
                         <a href="#">
-                            <img src="{!!asset('webpage/images/ems/palm-oil-mills/1-min.jpg')!!}"
+                            <img src="{!!asset('webpage/images/ems/palm-oil-mills/9-min.jpg')!!}"
                                 alt="Console Activity">
                         </a>
                         <div class="bg-overlay">
                             <div class="bg-overlay-content dark" data-hover-animate="fadeIn">
-                                <a href="{!!asset('webpage/images/ems/palm-oil-mills/1-min.jpg')!!}"
+                                <a href="{!!asset('webpage/images/ems/palm-oil-mills/9-min.jpg')!!}"
                                     class="overlay-trigger-icon bg-light text-dark" data-hover-animate="fadeInDownSmall"
                                     data-hover-animate-out="fadeOutUpSmall" data-hover-speed="350" data-lightbox="image"
                                     title="Image"><i class="icon-line-plus"></i></a>
@@ -233,11 +233,12 @@ pabrik pemecah batu">
                 <div class="portfolio-item">
                     <div class="portfolio-image">
                         <a href="#">
-                            <img src="{!!asset('webpage/demos/elangmas/assets/5.png')!!}" alt="Console Activity">
+                            <img src="{!!asset('webpage/images/ems/stone-crusher-plans/15-min.jpg')!!}"
+                                alt="Console Activity">
                         </a>
                         <div class="bg-overlay">
                             <div class="bg-overlay-content dark" data-hover-animate="fadeIn">
-                                <a href="{!!asset('webpage/demos/elangmas/assets/5.png')!!}"
+                                <a href="{!!asset('webpage/images/ems/stone-crusher-plans/15-min.jpg')!!}"
                                     class="overlay-trigger-icon bg-light text-dark" data-hover-animate="fadeInDownSmall"
                                     data-hover-animate-out="fadeOutUpSmall" data-hover-speed="350" data-lightbox="image"
                                     title="Image"><i class="icon-line-plus"></i></a>
@@ -256,12 +257,12 @@ pabrik pemecah batu">
                 <div class="portfolio-item">
                     <div class="portfolio-image">
                         <a href="#">
-                            <img src="{!!asset('webpage/images/ems/palm-oil-mills/3-min.jpg')!!}"
+                            <img src="{!!asset('webpage/images/ems/palm-oil-mills/9-min.jpg')!!}"
                                 alt="Console Activity">
                         </a>
                         <div class="bg-overlay">
                             <div class="bg-overlay-content dark" data-hover-animate="fadeIn">
-                                <a href="{!!asset('webpage/images/ems/palm-oil-mills/3-min.jpg')!!}"
+                                <a href="{!!asset('webpage/images/ems/palm-oil-mills/9-min.jpg')!!}"
                                     class="overlay-trigger-icon bg-light text-dark" data-hover-animate="fadeInDownSmall"
                                     data-hover-animate-out="fadeOutUpSmall" data-hover-speed="350" data-lightbox="image"
                                     title="Image"><i class="icon-line-plus"></i></a>
