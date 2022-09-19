@@ -130,7 +130,7 @@ pabrik pemecah batu">
                         </div>
                     </div>
                     <div class="portfolio-desc">
-                        <h3><a href="#">Stone crusher plant</a></h3>
+                        <h3><a href="#">Vibrating Screen</a></h3>
                         <span><a href="#">Proyek Stone Crusher</a></span>
                     </div>
                 </div>
@@ -201,7 +201,7 @@ pabrik pemecah batu">
                         </div>
                     </div>
                     <div class="portfolio-desc">
-                        <h3><a href="#">Palm Oil Mills</a></h3>
+                        <h3><a href="#">Incinerator</a></h3>
                         <span><a href="#">Proyek Palm Oil Mills</a></span>
                     </div>
                 </div>
@@ -249,7 +249,7 @@ pabrik pemecah batu">
                         </div>
                     </div>
                     <div class="portfolio-desc">
-                        <h3><a href="#">Scrapper</a></h3>
+                        <h3><a href="#">Plan Stone Crusher 100-120 tph</a></h3>
                         <span><a href="#">Proyek Stone Crusher</a></span>
                     </div>
                 </div>
@@ -273,7 +273,7 @@ pabrik pemecah batu">
                         </div>
                     </div>
                     <div class="portfolio-desc">
-                        <h3><a href="#">Scrapper</a></h3>
+                        <h3><a href="#">Plan Stone Crusher 250-300 tph</a></h3>
                         <span><a href="#">Proyek Stone Crusher</a></span>
                     </div>
                 </div>
