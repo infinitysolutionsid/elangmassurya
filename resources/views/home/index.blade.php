@@ -229,6 +229,54 @@ pabrik pemecah batu">
                         <span><a href="#">Proyek Stone Crusher</a></span>
                     </div>
                 </div>
+                <div class="portfolio-item">
+                    <div class="portfolio-image">
+                        <a href="#">
+                            <img src="{!!asset('webpage/images/ems/stone-crusher-plans/new-1.jpg')!!}"
+                                alt="Console Activity">
+                        </a>
+                        <div class="bg-overlay">
+                            <div class="bg-overlay-content dark" data-hover-animate="fadeIn">
+                                <a href="{!!asset('webpage/images/ems/stone-crusher-plans/new-1.jpg')!!}"
+                                    class="overlay-trigger-icon bg-light text-dark" data-hover-animate="fadeInDownSmall"
+                                    data-hover-animate-out="fadeOutUpSmall" data-hover-speed="350" data-lightbox="image"
+                                    title="Image"><i class="icon-line-plus"></i></a>
+                                <a href="#" class="overlay-trigger-icon bg-light text-dark"
+                                    data-hover-animate="fadeInDownSmall" data-hover-animate-out="fadeOutUpSmall"
+                                    data-hover-speed="350"><i class="icon-line-ellipsis"></i></a>
+                            </div>
+                            <div class="bg-overlay-bg dark" data-hover-animate="fadeIn"></div>
+                        </div>
+                    </div>
+                    <div class="portfolio-desc">
+                        <h3><a href="#">Scrapper</a></h3>
+                        <span><a href="#">Proyek Stone Crusher</a></span>
+                    </div>
+                </div>
+                <div class="portfolio-item">
+                    <div class="portfolio-image">
+                        <a href="#">
+                            <img src="{!!asset('webpage/images/ems/stone-crusher-plans/new-2.jpg')!!}"
+                                alt="Console Activity">
+                        </a>
+                        <div class="bg-overlay">
+                            <div class="bg-overlay-content dark" data-hover-animate="fadeIn">
+                                <a href="{!!asset('webpage/images/ems/stone-crusher-plans/new-2.jpg')!!}"
+                                    class="overlay-trigger-icon bg-light text-dark" data-hover-animate="fadeInDownSmall"
+                                    data-hover-animate-out="fadeOutUpSmall" data-hover-speed="350" data-lightbox="image"
+                                    title="Image"><i class="icon-line-plus"></i></a>
+                                <a href="#" class="overlay-trigger-icon bg-light text-dark"
+                                    data-hover-animate="fadeInDownSmall" data-hover-animate-out="fadeOutUpSmall"
+                                    data-hover-speed="350"><i class="icon-line-ellipsis"></i></a>
+                            </div>
+                            <div class="bg-overlay-bg dark" data-hover-animate="fadeIn"></div>
+                        </div>
+                    </div>
+                    <div class="portfolio-desc">
+                        <h3><a href="#">Scrapper</a></h3>
+                        <span><a href="#">Proyek Stone Crusher</a></span>
+                    </div>
+                </div>
 
             </div>
         </div>
