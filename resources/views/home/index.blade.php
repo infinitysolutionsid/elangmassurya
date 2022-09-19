@@ -184,31 +184,6 @@ pabrik pemecah batu">
                 <div class="portfolio-item">
                     <div class="portfolio-image">
                         <a href="#">
-                            <img src="{!!asset('webpage/demos/elangmas/assets/4.png')!!}" alt="Morning Dew">
-                        </a>
-                        <div class="bg-overlay" data-lightbox="gallery">
-                            <div class="bg-overlay-content dark" data-hover-animate="fadeIn">
-                                <a href="i{!!asset('webpage/demos/elangmas/assets/4.png')!!}"
-                                    class="overlay-trigger-icon bg-light text-dark" data-hover-animate="fadeInDownSmall"
-                                    data-hover-animate-out="fadeOutUpSmall" data-hover-speed="350"
-                                    data-lightbox="gallery-item"><i class="icon-line-stack-2"></i></a>
-                                <a href="{!!asset('webpage/demos/elangmas/assets/4.png')!!}" class="d-none"
-                                    data-lightbox="gallery-item"></a>
-                                <a href="#" class="overlay-trigger-icon bg-light text-dark"
-                                    data-hover-animate="fadeInDownSmall" data-hover-animate-out="fadeOutUpSmall"
-                                    data-hover-speed="350"><i class="icon-line-ellipsis"></i></a>
-                            </div>
-                            <div class="bg-overlay-bg dark" data-hover-animate="fadeIn"></div>
-                        </div>
-                    </div>
-                    <div class="portfolio-desc">
-                        <h3><a href="#">Stone Crusher Plant</a></h3>
-                        <span><a href="#">Proyek Stone Crusher</a></span>
-                    </div>
-                </div>
-                <div class="portfolio-item">
-                    <div class="portfolio-image">
-                        <a href="#">
                             <img src="{!!asset('webpage/images/ems/palm-oil-mills/9-min.jpg')!!}"
                                 alt="Console Activity">
                         </a>
@@ -250,31 +225,7 @@ pabrik pemecah batu">
                         </div>
                     </div>
                     <div class="portfolio-desc">
-                        <h3><a href="#">Stone Crusher Plant</a></h3>
-                        <span><a href="#">Proyek Stone Crusher</a></span>
-                    </div>
-                </div>
-                <div class="portfolio-item">
-                    <div class="portfolio-image">
-                        <a href="#">
-                            <img src="{!!asset('webpage/images/ems/palm-oil-mills/9-min.jpg')!!}"
-                                alt="Console Activity">
-                        </a>
-                        <div class="bg-overlay">
-                            <div class="bg-overlay-content dark" data-hover-animate="fadeIn">
-                                <a href="{!!asset('webpage/images/ems/palm-oil-mills/9-min.jpg')!!}"
-                                    class="overlay-trigger-icon bg-light text-dark" data-hover-animate="fadeInDownSmall"
-                                    data-hover-animate-out="fadeOutUpSmall" data-hover-speed="350" data-lightbox="image"
-                                    title="Image"><i class="icon-line-plus"></i></a>
-                                <a href="#" class="overlay-trigger-icon bg-light text-dark"
-                                    data-hover-animate="fadeInDownSmall" data-hover-animate-out="fadeOutUpSmall"
-                                    data-hover-speed="350"><i class="icon-line-ellipsis"></i></a>
-                            </div>
-                            <div class="bg-overlay-bg dark" data-hover-animate="fadeIn"></div>
-                        </div>
-                    </div>
-                    <div class="portfolio-desc">
-                        <h3><a href="#">Stone Crusher Plant</a></h3>
+                        <h3><a href="#">Scrapper</a></h3>
                         <span><a href="#">Proyek Stone Crusher</a></span>
                     </div>
                 </div>
