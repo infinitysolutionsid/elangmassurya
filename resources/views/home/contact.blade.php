@@ -18,47 +18,40 @@ peralatan, pabrik pemecah batu dan industri umum.')
 
                     <div class="form-widget">
 
-                        <div class="form-result"></div>
+                        @if (Session::has('success'))
+                        <div class="alert alert-success">
+                            <span>You have successfully send the appointment to Dr. Shindy Je. Please wait for the
+                                replies
+                                max. 24 hours from you sent us this appointment.</span>
+                        </div>
+                        @endif
 
-                        <form class="row mb-0" id="template-contactform" name="template-contactform"
-                            action="include/form.php" method="post">
-
-                            <div class="form-process">
-                                <div class="css3-spinner">
-                                    <div class="css3-spinner-scaler"></div>
-                                </div>
-                            </div>
-
+                        <form class="row mb-0" action="/contact" method="post">
+                            @csrf
                             <div class="col-md-4 form-group">
                                 <label for="template-contactform-name">Name <small>*</small></label>
-                                <input type="text" id="template-contactform-name" name="template-contactform-name"
-                                    value="" class="sm-form-control required" />
+                                <input type="text" name="name" value="" class="sm-form-control required" />
                             </div>
 
                             <div class="col-md-4 form-group">
                                 <label for="template-contactform-email">Email <small>*</small></label>
-                                <input type="email" id="template-contactform-email" name="template-contactform-email"
-                                    value="" class="required email sm-form-control" />
+                                <input type="email" name="email" value="" class="required email sm-form-control" />
                             </div>
 
                             <div class="col-md-4 form-group">
                                 <label for="template-contactform-phone">Phone</label>
-                                <input type="text" id="template-contactform-phone" name="template-contactform-phone"
-                                    value="" class="sm-form-control" />
+                                <input type="text" name="phone" value="" class="sm-form-control" />
                             </div>
 
-                            <div class="w-100"></div>
 
                             <div class="col-md-8 form-group">
                                 <label for="template-contactform-subject">Subject <small>*</small></label>
-                                <input type="text" id="template-contactform-subject" name="subject" value=""
-                                    class="required sm-form-control" />
+                                <input type="text" name="subject" value="" class="required sm-form-control" />
                             </div>
 
                             <div class="col-md-4 form-group">
                                 <label for="template-contactform-service">Services</label>
-                                <select id="template-contactform-service" name="template-contactform-service"
-                                    class="sm-form-control">
+                                <select name="services" class="sm-form-control">
                                     <option value="">-- Select One --</option>
                                     <option value="Palm Oil Mill">Palm Oil Mill</option>
                                     <option value="Stone Crusher">Stone Crusher</option>
@@ -68,17 +61,10 @@ peralatan, pabrik pemecah batu dan industri umum.')
                                 </select>
                             </div>
 
-                            <div class="w-100"></div>
-
                             <div class="col-12 form-group">
                                 <label for="template-contactform-message">Message <small>*</small></label>
                                 <textarea class="required sm-form-control" id="template-contactform-message"
-                                    name="template-contactform-message" rows="6" cols="30"></textarea>
-                            </div>
-
-                            <div class="col-12 form-group d-none">
-                                <input type="text" id="template-contactform-botcheck"
-                                    name="template-contactform-botcheck" value="" class="sm-form-control" />
+                                    name="message" rows="6" cols="30"></textarea>
                             </div>
 
                             <div class="col-12 form-group">
@@ -89,11 +75,8 @@ peralatan, pabrik pemecah batu dan industri umum.')
                             </div>
 
                             <div class="col-12 form-group">
-                                <button class="button button-3d m-0" type="submit" id="template-contactform-submit"
-                                    name="template-contactform-submit" value="submit">{{__('send_message')}}</button>
+                                <button class="button button-3d m-0" type="submit">{{__('send_message')}}</button>
                             </div>
-
-                            <input type="hidden" name="prefix" value="template-contactform-">
 
                         </form>
 

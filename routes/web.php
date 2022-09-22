@@ -39,6 +39,7 @@ Route::get('/events', 'webpageController@events');
 Route::get('/gallery', 'webpageController@gallery');
 Route::get('/about-us', 'webpageController@aboutUs');
 Route::get('/contact-us', 'webpageController@contactUs');
+Route::post('/contact', 'webpageController@contact');
 
 
 // additional
